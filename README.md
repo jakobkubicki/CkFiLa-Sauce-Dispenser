@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 
-N/A
+Read from Data File
 
 ## Contributing
 
